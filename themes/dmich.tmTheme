@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1794FAF0</string>
+				<string>#1DA11D</string>
 				<key>background</key>
 				<string>#FFFFFF3B</string>
 			</dict>
@@ -109,23 +109,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b27cff</string>
+				<string>#9278E8</string>
 			</dict>
 		</dict>
-
-		<dict>
-			<key>name</key>
-			<string>Variable, Property</string>
-			<key>scope</key>
-			<string>		
-				variable.other.readwrite
-			</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#1DA11D</string>
-			</dict>
-		</dict>		
 
 		<dict>
 			<key>name</key>
@@ -148,6 +134,17 @@
 				<key>foreground</key>
 				<string>#1794FAF0</string>
 			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.other.attribute-name.id.less</string>
+			<key>scope</key>
+			<string>source.css.less entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e09e04</string>
+				</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -220,7 +217,7 @@
 				<key>fontStyle</key>
 				<string>italic bold</string>
 				<key>foreground</key>
-				<string>#0088FF</string>
+				<string>#FF960D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,7 +256,7 @@
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>foreground</key>
-				<string>#1DA11D</string>
+				<string>#0088FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -309,9 +306,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string> bold </string>
 				<key>foreground</key>
-				<string>#FFCD03</string>
+				<string>#0088FF</string>
 			</dict>
 		</dict>
 		<dict>
