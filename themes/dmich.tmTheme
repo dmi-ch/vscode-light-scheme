@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Art School</string>
+	<string>dmich</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -53,6 +53,17 @@
 				<string>#1DA11D</string>
 				<key>background</key>
 				<string>#FFFFFF3B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ampersand</string>
+			<key>scope</key>
+			<string>invalid.illegal.bad-ampersand.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -387,6 +398,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#F77C00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.other.attribute-name.class.jade</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c68400</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.other.attribute-name.tag.jade</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.tag.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#161616</string>
 			</dict>
 		</dict>
 		<dict>
