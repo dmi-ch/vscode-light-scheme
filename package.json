@@ -1,9 +1,9 @@
 {
-	"name": "Theme-dmich",
-	"displayName": "dmich Theme",
-	"description": "dmich Theme ported from the dmich TextMate Theme",
-	"version": "0.0.2",
-	"publisher": "gerane",
+	"name": "Dmich",
+	"displayName": "Dmich",
+	"description": "Dmich Theme ported from the ArtSchool TextMate Theme",
+	"version": "0.0.5",
+	"publisher": "dmich",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
@@ -11,23 +11,23 @@
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-dmich/README.md",
+	"homepage": "https://github.com/dmi-ch/vscode-light-scheme.gitREADME.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/gerane/VSCodeThemes.git"
+		"url": "https://github.com/dmi-ch/vscode-light-scheme.git"
 	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "dmich",
-				"uiTheme": "vs",
-				"path": "./themes/dmich.tmTheme"
+				"label": "Dmich",
+				"path": "./themes/dmich.tmTheme",
+				"uiTheme": "vs"
 			}
 		]
 	},
 	"__metadata": {
-		"id": "f30d3fe4-4c40-43d8-aeb4-3f16235e205a",
-		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
-		"publisherDisplayName": "gerane"
+		"id": "f30d3fe4-4c40-43d8-aeb4-3f16235e205b",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fq",
+		"publisherDisplayName": "dmich"
 	}
 }
